@@ -1,6 +1,3 @@
-
-- [Animals](#animals)
-
 ## Zvířata
 
 | zvíře        | generuje 1.  | generuje 2. | generuje 3.  | užitek  |
@@ -19,3 +16,4 @@
 | pštros       | maso         | peří        | vejce        | x       |
 | mořský koník | x            | x           | x            | x       |
 | měsíční krab | maso         | x           | x            | x       |
+
