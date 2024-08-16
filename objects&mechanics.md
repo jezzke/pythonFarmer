@@ -17,3 +17,32 @@
 | mořský koník | x            | x           | x            | x       |
 | měsíční krab | maso         | x           | x            | x       |
 
+
+### králík
+
+### kůň
+
+### kráva
+
+### ovce
+
+### koza
+
+### slepice
+
+### včela
+
+### prase
+
+### husa
+
+### lama
+
+### králík rex
+
+### pštros
+
+### mořský koník
+
+### měsíční krab
+
