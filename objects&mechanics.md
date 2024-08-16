@@ -46,3 +46,27 @@
 
 ### měsíční krab
 
+
+## Produkty
+
+### Pivo
+> #### tvorba:
+> 1. Pěstování surovin  
+>> vypěstovat suroviny:
+>>- ječmen
+>>- chmel
+> 2. Sladování
+>> zpracovat ječmen na slad v sušárně
+> 3. Rmutování
+>> hráč musí smíchat slad s horkou vodou
+> 4. Chmelovar
+>> vařit sladinu s chmelem
+> 5. Kvašení
+>> přenést sladinu do fermentačních nádob. kde se přidávají kvasnice
+> 6. Zrání
+>> nechat pivo dozrát v sudech nebo lahvích, aby získalo potřebnou chuť
+> 7. Plnění
+>> stáčet pivo do lahví nebo sudů, které jsou připraveny na distribuci.
+> #### prodej 
+>> hostince, pivnice nebo tržnice  
+>> prodávat pivo přímo v hospodách nebo pivnicích nebo dodávat velkoobchodníkům
